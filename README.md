@@ -120,8 +120,5 @@ Collections.sort(list, new Post());
 ## Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/LokeshPusdekar)
+GitHub: [LokeshPusdekar](https://github.com/LokeshPusdekar)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
