@@ -120,7 +120,7 @@ Collections.sort(list, new Post());
 ## Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/LokeshPusdekar)
 
 ## License
 
