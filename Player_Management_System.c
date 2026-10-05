@@ -7,7 +7,7 @@
 typedef struct player
 {
     char player_name[20];
-    int jersey_num;
+    int jersey_num; 
     int match_played;
     int runs;
     int wicket;
