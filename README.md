@@ -1,7 +1,7 @@
 # Employee Management System (Java)
 
 A console-based Java application that performs **CRUDS** operations (**C**reate, **R**ead, **U**pdate, **D**elete, **S**ort) on employee records. It is built with core Java concepts: OOP, inheritance, polymorphism, abstract classes, collections, `Comparable` and `Comparator`.
-
+ 
 ## Features
 
 | Operation | Description |
